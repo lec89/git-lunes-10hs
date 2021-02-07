@@ -1,0 +1,27 @@
+REPOSITORY (REPOSITORIO)
+	Es el lugar donde se almacenan los cambios
+	efectuados al realizar un commit. Los mismos
+	se guardan en formato BLOB (Binary Object File)
+	y se los identifica mediante un número de HASH,
+	el cual se genera combinando la fecha, la hora,
+	el usuario, correo y registro de cambios.
+
+	NOTA: Git funciona como un grafo dirigido acíclico,
+	es decir que los commits siempre apuntan en una sola
+	dirección, y esta es a sus ancestros; es por esto
+	que no se debe editar el historial, para evitar
+	la perdida de referencias.
+
+GIT
+
+	git commit => emite un commit (validación de cambios)
+	git commit -m => emite un commit con mensaje ( no abre el editor)
+	git commit -a => emite un commit agregando los cambios de archivos que se encuentren en el index.
+	git commit --amend => edita el último commit en caso de error/revisión.
+
+	git diff <hash> => compara el working directory con el commit indicado.
+	git diff <ref> => compara el working directory con el commit referente.
+	git diff <ref> -- <file> => compara el archivo especificado con el commit.
+	*REF
+		HEAD^ => padre del commit.
+		HEAD~n => cantidad de commits anteriores.
