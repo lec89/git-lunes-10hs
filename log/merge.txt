@@ -1,0 +1,18 @@
+* c1de8a7 (master) se edito contenido - repositorio remoto (acciones)
+*   9b8873e (repositories) Merge branch 'master' into repositories
+|\
+| *   3f21e4b (IT/master) Merge branch 'repositories'
+| |\
+| * | 897e15c se edito contenido - working directory
+* | | 8c63893 (IT/repositories) Se edito contenido - remotes (actions)
+| |/
+|/|
+* | 0f33d7f se agrego contenido - repositorios remotos
+|/
+* d9559f6 se agrego contenido - local repository
+* 1ee6f2c se agrego contenido - staging area
+* a2c2c1d se agrego contenido - working directory
+| * dcf0f95 (HEAD -> branches, IT/branches) se agrego contenido - branches
+|/
+* 786bfad Configuracion - se agrego user.txt
+* f21fa76 Primer Commit - se agrego config.txt
