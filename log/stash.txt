@@ -1,0 +1,35 @@
+*   313be07 (refs/stash) WIP on master: 5d31d0a Merge branch 'master' of https://github.com/lec89/git-lunes-10hs
+|\
+| * f0f41d2 index on master: 5d31d0a Merge branch 'master' of https://github.com/lec89/git-lunes-10hs
+|/
+*   5d31d0a (HEAD -> master, IT/master) Merge branch 'master' of https://github.com/lec89/git-lunes-10hs
+|\
+| *   3f21e4b Merge branch 'repositories'
+| |\
+| * | 897e15c se edito contenido - working directory
+* | | c3a4b66 se agrego contenido - rebase logs
+* | | a44fbca se edito contenido - repositorio remoto (acciones)
+* | | fef03b2 se edito contenido - working directory
+| | | * 7e60207 (branches) se edito contenido - branches (merge)
+| | | * c4033a7 se edito contenido - branches (eliminar)
+| | | * 84cca67 se agrego contenido - branches
+| | | * 1c4fd63 Configuracion - se agrego user.txt
+| | | * e36e1fd (rebase) se edito contenido - rebase (comandos)
+| | | * 38bc56f se agrego contenido - rebase (teoría)
+| | | | * ad07407 (IT/repositories, repositories) se edito contenido - working directory
+| |_|_|/
+|/| | |
+* | | | 8c63893 Se edito contenido - remotes (actions)
+| |/ /
+|/| |
+* | | 0f33d7f se agrego contenido - repositorios remotos
+|/ /
+* | d9559f6 se agrego contenido - local repository
+* | 1ee6f2c se agrego contenido - staging area
+* | a2c2c1d (development) se agrego contenido - working directory
+| | * dcf0f95 (IT/branches) se agrego contenido - branches
+| |/
+|/|
+* | 786bfad Configuracion - se agrego user.txt
+|/
+* f21fa76 Primer Commit - se agrego config.txt
